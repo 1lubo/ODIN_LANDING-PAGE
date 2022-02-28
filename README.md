@@ -7,5 +7,5 @@ The design we’re providing you comes in the form of 2 images: one is an image 
 
 ![Full Design](./files/odin-project.png)
 
-![Colors and Fonts](.files/colors_and_stuff.png)
+![Colors and Fonts](./files/colors_and_stuff.png)
 
