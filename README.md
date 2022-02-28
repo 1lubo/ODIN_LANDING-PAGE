@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
+
 # ODIN_LANDING-PAGE
-=======
-# ODIN_LANDING-PAGE
->>>>>>> 0ac3fe5f292fc7791e9fbde4470440741792c4cc
